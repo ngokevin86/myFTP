@@ -1,4 +1,4 @@
-/*Kevin Ngo - CS 360
+/*Kevin Ngo
  *Assignment Final - Server/Client File Explorer (.h file)
  *Completed April 28th, 2019
  */
