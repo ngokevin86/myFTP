@@ -1,7 +1,6 @@
 /*Kevin Ngo - CS 360
  *Assignment Final - Server/Client File Explorer (.h file)
- *Professor Ben McCamish
- *Due April 28th, 2019
+ *Completed April 28th, 2019
  */
 
 #ifndef MFTP_H
